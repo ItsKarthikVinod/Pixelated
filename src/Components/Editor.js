@@ -26,7 +26,7 @@ function Editor() {
 
   return (
     <div id="editor">
-      <h1>Pixelated</h1>
+      <h1>Pixelated 😎 </h1>
       {hideDrawingPanel && <h2>Enter Panel Dimensions 👉 </h2>}
       {hideDrawingPanel && (
         <div id="options">
